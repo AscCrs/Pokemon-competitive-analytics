@@ -1,0 +1,157 @@
+id,nombre,tipo_1,tipo_2,altura,peso,HP,Ataque,Defensa,Ataque Especial,Defensa Especial,Velocidad,movimientos,habilidades,imagen
+494,victini,psychic,fire,0.4,4.0,100,100,100,100,100,100,94,['victory-star'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png
+495,snivy,grass,,0.6,8.1,45,45,55,45,55,63,77,"['overgrow', 'contrary']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png
+496,servine,grass,,0.8,16.0,60,60,75,60,75,83,74,"['overgrow', 'contrary']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png
+497,serperior,grass,,3.3,63.0,75,75,95,75,95,113,87,"['overgrow', 'contrary']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png
+498,tepig,fire,,0.5,9.9,65,63,45,45,45,45,72,"['blaze', 'thick-fat']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png
+499,pignite,fire,fighting,1.0,55.5,90,93,55,70,55,55,91,"['blaze', 'thick-fat']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png
+500,emboar,fire,fighting,1.6,150.0,110,123,65,100,65,65,102,"['blaze', 'reckless']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png
+501,oshawott,water,,0.5,5.9,55,55,45,63,45,45,78,"['torrent', 'shell-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png
+502,dewott,water,,0.8,24.5,75,75,60,83,60,60,77,"['torrent', 'shell-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png
+503,samurott,water,,1.5,94.6,95,100,85,108,70,70,95,"['torrent', 'shell-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png
+504,patrat,normal,,0.5,11.6,45,55,39,35,39,42,63,"['run-away', 'keen-eye', 'analytic']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png
+505,watchog,normal,,1.1,27.0,60,85,69,60,69,77,77,"['illuminate', 'keen-eye', 'analytic']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png
+506,lillipup,normal,,0.4,4.1,45,60,45,25,45,55,60,"['vital-spirit', 'pickup', 'run-away']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png
+507,herdier,normal,,0.9,14.7,65,80,65,35,65,60,56,"['intimidate', 'sand-rush', 'scrappy']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png
+508,stoutland,normal,,1.2,61.0,85,110,90,45,90,80,61,"['intimidate', 'sand-rush', 'scrappy']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png
+509,purrloin,dark,,0.4,10.1,41,50,37,50,37,66,74,"['limber', 'unburden', 'prankster']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png
+510,liepard,dark,,1.1,37.5,64,88,50,88,50,106,77,"['limber', 'unburden', 'prankster']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png
+511,pansage,grass,,0.6,10.5,50,53,48,53,48,64,72,"['gluttony', 'overgrow']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png
+512,simisage,grass,,1.1,30.5,75,98,63,98,63,101,64,"['gluttony', 'overgrow']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png
+513,pansear,fire,,0.6,11.0,50,53,48,53,48,64,72,"['gluttony', 'blaze']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png
+514,simisear,fire,,1.0,28.0,75,98,63,98,63,101,66,"['gluttony', 'blaze']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png
+515,panpour,water,,0.6,13.5,50,53,48,53,48,64,74,"['gluttony', 'torrent']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png
+516,simipour,water,,1.0,29.0,75,98,63,98,63,101,67,"['gluttony', 'torrent']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png
+517,munna,psychic,,0.6,23.3,76,25,45,67,55,24,75,"['forewarn', 'synchronize', 'telepathy']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png
+518,musharna,psychic,,1.1,60.5,116,55,85,107,95,29,71,"['forewarn', 'synchronize', 'telepathy']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png
+519,pidove,normal,flying,0.3,2.1,50,55,50,36,30,43,52,"['big-pecks', 'super-luck', 'rivalry']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png
+520,tranquill,normal,flying,0.6,15.0,62,77,62,50,42,65,46,"['big-pecks', 'super-luck', 'rivalry']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png
+521,unfezant,normal,flying,1.2,29.0,80,115,80,65,55,93,51,"['big-pecks', 'super-luck', 'rivalry']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png
+522,blitzle,electric,,0.8,29.8,45,60,32,50,32,76,65,"['lightning-rod', 'motor-drive', 'sap-sipper']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png
+523,zebstrika,electric,,1.6,79.5,75,100,63,80,63,116,74,"['lightning-rod', 'motor-drive', 'sap-sipper']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png
+524,roggenrola,rock,,0.4,18.0,55,75,85,25,25,15,51,"['sturdy', 'weak-armor', 'sand-force']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png
+525,boldore,rock,,0.9,102.0,70,105,105,50,40,20,47,"['sturdy', 'weak-armor', 'sand-force']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png
+526,gigalith,rock,,1.7,260.0,85,135,130,60,80,25,56,"['sturdy', 'sand-stream', 'sand-force']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png
+527,woobat,psychic,flying,0.4,2.1,65,45,43,55,43,72,89,"['unaware', 'klutz', 'simple']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png
+528,swoobat,psychic,flying,0.9,10.5,67,57,55,77,55,114,89,"['unaware', 'klutz', 'simple']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png
+529,drilbur,ground,,0.3,8.5,60,85,40,30,45,68,63,"['sand-rush', 'sand-force', 'mold-breaker']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png
+530,excadrill,ground,steel,0.7,40.4,110,135,60,50,65,88,74,"['sand-rush', 'sand-force', 'mold-breaker']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png
+531,audino,normal,,1.1,31.0,103,60,86,60,86,50,107,"['healer', 'regenerator', 'klutz']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png
+532,timburr,fighting,,0.6,12.5,75,80,55,25,35,35,80,"['guts', 'sheer-force', 'iron-fist']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png
+533,gurdurr,fighting,,1.2,40.0,85,105,85,40,50,40,77,"['guts', 'sheer-force', 'iron-fist']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png
+534,conkeldurr,fighting,,1.4,87.0,105,140,95,55,65,45,86,"['guts', 'sheer-force', 'iron-fist']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png
+535,tympole,water,,0.5,4.5,50,50,40,50,40,64,51,"['swift-swim', 'hydration', 'water-absorb']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png
+536,palpitoad,water,ground,0.8,17.0,75,65,55,65,55,69,52,"['swift-swim', 'hydration', 'water-absorb']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png
+537,seismitoad,water,ground,1.5,62.0,105,95,75,85,75,74,76,"['swift-swim', 'poison-touch', 'water-absorb']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png
+538,throh,fighting,,1.3,55.5,120,100,85,30,85,45,70,"['guts', 'inner-focus', 'mold-breaker']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png
+539,sawk,fighting,,1.4,51.0,75,125,75,30,75,85,68,"['sturdy', 'inner-focus', 'mold-breaker']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png
+540,sewaddle,bug,grass,0.3,2.5,45,53,70,40,60,42,66,"['swarm', 'chlorophyll', 'overcoat']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png
+541,swadloon,bug,grass,0.5,7.3,55,63,90,50,80,42,60,"['leaf-guard', 'chlorophyll', 'overcoat']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png
+542,leavanny,bug,grass,1.2,20.5,75,103,80,70,80,92,85,"['swarm', 'chlorophyll', 'overcoat']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png
+543,venipede,bug,poison,0.4,5.3,30,45,59,30,39,57,52,"['poison-point', 'swarm', 'speed-boost']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png
+544,whirlipede,bug,poison,1.2,58.5,40,55,99,40,79,47,49,"['poison-point', 'swarm', 'speed-boost']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png
+545,scolipede,bug,poison,2.5,200.5,60,100,89,55,69,112,71,"['poison-point', 'swarm', 'speed-boost']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png
+546,cottonee,grass,fairy,0.3,0.6,40,27,60,37,50,66,61,"['prankster', 'infiltrator', 'chlorophyll']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png
+547,whimsicott,grass,fairy,0.7,6.6,60,67,85,77,75,116,71,"['prankster', 'infiltrator', 'chlorophyll']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png
+548,petilil,grass,,0.5,6.6,45,35,50,70,50,30,61,"['chlorophyll', 'own-tempo', 'leaf-guard']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png
+549,lilligant,grass,,1.1,16.3,70,60,75,110,75,90,67,"['chlorophyll', 'own-tempo', 'leaf-guard']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png
+550,basculin-red-striped,water,,1.0,18.0,70,92,65,80,55,98,74,"['reckless', 'adaptability', 'mold-breaker']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png
+551,sandile,ground,dark,0.7,15.2,50,72,35,35,35,65,80,"['intimidate', 'moxie', 'anger-point']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png
+552,krokorok,ground,dark,1.0,33.4,60,82,45,45,45,74,92,"['intimidate', 'moxie', 'anger-point']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png
+553,krookodile,ground,dark,1.5,96.3,95,117,80,65,70,92,106,"['intimidate', 'moxie', 'anger-point']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png
+554,darumaka,fire,,0.6,37.5,70,90,45,15,45,50,68,"['hustle', 'inner-focus']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png
+555,darmanitan-standard,fire,,1.3,92.9,105,140,55,30,55,95,89,"['sheer-force', 'zen-mode']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png
+556,maractus,grass,,1.0,28.0,75,86,67,106,67,60,65,"['water-absorb', 'chlorophyll', 'storm-drain']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png
+557,dwebble,bug,rock,0.3,14.5,50,65,85,35,35,55,60,"['sturdy', 'shell-armor', 'weak-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png
+558,crustle,bug,rock,1.4,200.0,70,105,125,65,75,45,62,"['sturdy', 'shell-armor', 'weak-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png
+559,scraggy,dark,fighting,0.6,11.8,50,75,70,35,70,48,101,"['shed-skin', 'moxie', 'intimidate']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png
+560,scrafty,dark,fighting,1.1,30.0,65,90,115,45,115,58,108,"['shed-skin', 'moxie', 'intimidate']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png
+561,sigilyph,psychic,flying,1.4,14.0,72,58,80,103,80,97,83,"['wonder-skin', 'magic-guard', 'tinted-lens']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png
+562,yamask,ghost,,0.5,1.5,38,30,85,55,65,30,70,['mummy'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png
+563,cofagrigus,ghost,,1.7,76.5,58,50,145,95,105,30,77,['mummy'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png
+564,tirtouga,water,rock,0.7,16.5,54,78,103,53,45,22,69,"['solid-rock', 'sturdy', 'swift-swim']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png
+565,carracosta,water,rock,1.2,81.0,74,108,133,83,65,32,73,"['solid-rock', 'sturdy', 'swift-swim']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png
+566,archen,rock,flying,0.5,9.5,55,112,45,74,45,70,75,['defeatist'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png
+567,archeops,rock,flying,1.4,32.0,75,140,65,112,65,110,80,['defeatist'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png
+568,trubbish,poison,,0.6,31.0,50,50,62,40,62,65,57,"['stench', 'sticky-hold', 'aftermath']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png
+569,garbodor,poison,,1.9,107.3,80,95,82,60,82,75,66,"['stench', 'weak-armor', 'aftermath']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png
+570,zorua,dark,,0.7,12.5,40,65,40,80,40,65,84,['illusion'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png
+571,zoroark,dark,,1.6,81.1,60,105,60,120,60,105,93,['illusion'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png
+572,minccino,normal,,0.4,5.8,55,50,40,40,40,75,73,"['cute-charm', 'technician', 'skill-link']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png
+573,cinccino,normal,,0.5,7.5,75,95,60,65,60,115,78,"['cute-charm', 'technician', 'skill-link']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png
+574,gothita,psychic,,0.4,5.8,45,30,50,55,65,45,89,"['frisk', 'competitive', 'shadow-tag']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png
+575,gothorita,psychic,,0.7,18.0,60,45,70,75,85,55,84,"['frisk', 'competitive', 'shadow-tag']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png
+576,gothitelle,psychic,,1.5,44.0,70,55,95,95,110,65,93,"['frisk', 'competitive', 'shadow-tag']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png
+577,solosis,psychic,,0.3,1.0,45,30,40,105,50,20,79,"['overcoat', 'magic-guard', 'regenerator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png
+578,duosion,psychic,,0.6,8.0,65,40,50,125,60,30,79,"['overcoat', 'magic-guard', 'regenerator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png
+579,reuniclus,psychic,,1.0,20.1,110,65,75,125,85,30,100,"['overcoat', 'magic-guard', 'regenerator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png
+580,ducklett,water,flying,0.5,5.5,62,44,50,44,50,55,60,"['keen-eye', 'big-pecks', 'hydration']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png
+581,swanna,water,flying,1.3,24.2,75,87,63,87,63,98,65,"['keen-eye', 'big-pecks', 'hydration']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png
+582,vanillite,ice,,0.4,5.7,36,50,50,65,60,44,52,"['ice-body', 'snow-cloak', 'weak-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png
+583,vanillish,ice,,1.1,41.0,51,65,65,80,75,59,46,"['ice-body', 'snow-cloak', 'weak-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png
+584,vanilluxe,ice,,1.3,57.5,71,95,85,110,95,79,52,"['ice-body', 'snow-warning', 'weak-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png
+585,deerling,normal,grass,0.6,19.5,60,60,50,40,50,75,71,"['chlorophyll', 'sap-sipper', 'serene-grace']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png
+586,sawsbuck,normal,grass,1.9,92.5,80,100,70,60,70,95,80,"['chlorophyll', 'sap-sipper', 'serene-grace']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png
+587,emolga,electric,flying,0.4,5.0,55,75,60,75,60,103,67,"['static', 'motor-drive']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png
+588,karrablast,bug,,0.5,5.9,50,75,45,40,45,60,53,"['swarm', 'shed-skin', 'no-guard']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png
+589,escavalier,bug,steel,1.0,33.0,70,135,105,60,105,20,67,"['swarm', 'shell-armor', 'overcoat']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png
+590,foongus,grass,poison,0.2,1.0,69,55,45,55,55,15,56,"['effect-spore', 'regenerator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png
+591,amoonguss,grass,poison,0.6,10.5,114,85,70,85,80,30,58,"['effect-spore', 'regenerator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png
+592,frillish,water,ghost,1.2,33.0,55,40,50,65,85,40,71,"['water-absorb', 'cursed-body', 'damp']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png
+593,jellicent,water,ghost,2.2,135.0,100,60,70,85,105,60,70,"['water-absorb', 'cursed-body', 'damp']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png
+594,alomomola,water,,1.2,31.6,165,75,80,40,45,65,74,"['healer', 'hydration', 'regenerator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png
+595,joltik,bug,electric,0.1,0.6,50,47,50,57,50,65,69,"['compound-eyes', 'unnerve', 'swarm']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png
+596,galvantula,bug,electric,0.8,14.3,70,77,60,97,60,108,69,"['compound-eyes', 'unnerve', 'swarm']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png
+597,ferroseed,grass,steel,0.6,18.8,44,50,91,24,86,10,60,['iron-barbs'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png
+598,ferrothorn,grass,steel,1.0,110.0,74,94,131,54,116,20,74,"['iron-barbs', 'anticipation']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png
+599,klink,steel,,0.3,21.0,40,55,70,45,60,30,53,"['plus', 'minus', 'clear-body']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png
+600,klang,steel,,0.6,51.0,60,80,95,70,85,50,54,"['plus', 'minus', 'clear-body']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png
+601,klinklang,steel,,0.6,81.0,60,100,115,70,85,90,60,"['plus', 'minus', 'clear-body']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png
+602,tynamo,electric,,0.2,0.3,35,55,40,45,40,60,8,['levitate'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png
+603,eelektrik,electric,,1.2,22.0,65,85,70,75,70,40,61,['levitate'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png
+604,eelektross,electric,,2.1,80.5,85,115,80,105,80,50,97,['levitate'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png
+605,elgyem,psychic,,0.5,9.0,55,55,55,85,55,30,82,"['telepathy', 'synchronize', 'analytic']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png
+606,beheeyem,psychic,,1.0,34.5,75,75,75,125,95,40,84,"['telepathy', 'synchronize', 'analytic']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png
+607,litwick,ghost,fire,0.3,3.1,50,30,55,65,55,20,72,"['flash-fire', 'flame-body', 'infiltrator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png
+608,lampent,ghost,fire,0.6,13.0,60,40,60,95,60,55,71,"['flash-fire', 'flame-body', 'infiltrator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png
+609,chandelure,ghost,fire,1.0,34.3,60,55,90,145,90,80,75,"['flash-fire', 'flame-body', 'infiltrator']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png
+610,axew,dragon,,0.6,18.0,46,87,60,30,40,57,80,"['rivalry', 'mold-breaker', 'unnerve']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png
+611,fraxure,dragon,,1.0,36.0,66,117,70,40,50,67,76,"['rivalry', 'mold-breaker', 'unnerve']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png
+612,haxorus,dragon,,1.8,105.5,76,147,90,60,70,97,86,"['rivalry', 'mold-breaker', 'unnerve']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png
+613,cubchoo,ice,,0.5,8.5,55,70,40,60,40,40,83,"['snow-cloak', 'slush-rush', 'rattled']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png
+614,beartic,ice,,2.6,260.0,95,130,80,70,80,50,100,"['snow-cloak', 'slush-rush', 'swift-swim']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png
+615,cryogonal,ice,,1.1,148.0,80,50,50,95,135,105,66,['levitate'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png
+616,shelmet,bug,,0.4,7.7,50,40,85,40,65,25,52,"['hydration', 'shell-armor', 'overcoat']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png
+617,accelgor,bug,,0.8,25.3,80,70,40,100,60,145,62,"['hydration', 'sticky-hold', 'unburden']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png
+618,stunfisk,ground,electric,0.7,11.0,109,66,84,81,99,32,74,"['static', 'limber', 'sand-veil']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png
+619,mienfoo,fighting,,0.9,20.0,45,85,50,55,50,65,83,"['inner-focus', 'regenerator', 'reckless']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png
+620,mienshao,fighting,,1.4,35.5,65,125,60,95,60,105,91,"['inner-focus', 'regenerator', 'reckless']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png
+621,druddigon,dragon,,1.6,139.0,77,120,90,60,90,48,91,"['rough-skin', 'sheer-force', 'mold-breaker']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png
+622,golett,ground,ghost,1.0,92.0,59,74,50,35,50,35,89,"['iron-fist', 'klutz', 'no-guard']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png
+623,golurk,ground,ghost,2.8,330.0,89,124,80,55,80,55,105,"['iron-fist', 'klutz', 'no-guard']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png
+624,pawniard,dark,steel,0.5,10.2,45,85,70,40,40,60,84,"['defiant', 'inner-focus', 'pressure']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png
+625,bisharp,dark,steel,1.6,70.0,65,125,100,60,70,70,85,"['defiant', 'inner-focus', 'pressure']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png
+626,bouffalant,normal,,1.6,94.6,95,110,95,40,95,55,73,"['reckless', 'sap-sipper', 'soundproof']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png
+627,rufflet,normal,flying,0.5,10.5,70,83,50,37,50,60,68,"['keen-eye', 'sheer-force', 'hustle']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png
+628,braviary,normal,flying,1.5,41.0,100,123,75,57,75,80,73,"['keen-eye', 'sheer-force', 'defiant']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png
+629,vullaby,dark,flying,0.5,9.0,70,55,75,45,65,60,73,"['big-pecks', 'overcoat', 'weak-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png
+630,mandibuzz,dark,flying,1.2,39.5,110,65,105,55,95,80,80,"['big-pecks', 'overcoat', 'weak-armor']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png
+631,heatmor,fire,,1.4,58.0,85,97,66,105,66,65,80,"['gluttony', 'flash-fire', 'white-smoke']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png
+632,durant,bug,steel,0.3,33.0,58,109,112,48,48,109,65,"['swarm', 'hustle', 'truant']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png
+633,deino,dark,dragon,0.8,17.3,52,65,50,45,50,38,67,['hustle'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png
+634,zweilous,dark,dragon,1.4,50.0,72,85,70,65,70,58,68,['hustle'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png
+635,hydreigon,dark,dragon,1.8,160.0,92,105,90,125,90,98,104,['levitate'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png
+636,larvesta,bug,fire,1.1,28.8,55,85,55,50,55,60,61,"['flame-body', 'swarm']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png
+637,volcarona,bug,fire,1.6,46.0,85,60,65,135,105,100,78,"['flame-body', 'swarm']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png
+638,cobalion,steel,fighting,2.1,250.0,91,90,129,90,72,108,82,['justified'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png
+639,terrakion,rock,fighting,1.9,260.0,91,129,90,72,90,108,75,['justified'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png
+640,virizion,grass,fighting,2.0,200.0,91,90,72,90,129,108,81,['justified'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png
+641,tornadus-incarnate,flying,,1.5,63.0,79,115,70,125,80,111,84,"['prankster', 'defiant']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png
+642,thundurus-incarnate,electric,flying,1.5,61.0,79,115,70,125,80,111,94,"['prankster', 'defiant']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png
+643,reshiram,dragon,fire,3.2,330.0,100,120,100,150,120,90,91,['turboblaze'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png
+644,zekrom,dragon,electric,2.9,345.0,100,150,120,120,100,90,98,['teravolt'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png
+645,landorus-incarnate,ground,flying,1.5,68.0,89,125,90,115,80,101,82,"['sand-force', 'sheer-force']",https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png
+646,kyurem,dragon,ice,3.0,325.0,125,130,90,130,90,95,86,['pressure'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png
+647,keldeo-ordinary,water,fighting,1.4,48.5,91,72,90,129,90,108,81,['justified'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png
+648,meloetta-aria,normal,psychic,0.6,6.5,100,77,77,128,128,90,105,['serene-grace'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png
+649,genesect,bug,steel,1.5,82.5,71,120,95,120,95,99,80,['download'],https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png
